@@ -1,0 +1,14 @@
+//
+// Created by ahmedfayez on 12/25/17.
+//
+
+#ifndef HUFFMAN_CODING_DECODING_HUFFMAN_DECODER_H
+#define HUFFMAN_CODING_DECODING_HUFFMAN_DECODER_H
+
+
+class Huffman_Decoder {
+
+};
+
+
+#endif //HUFFMAN_CODING_DECODING_HUFFMAN_DECODER_H
